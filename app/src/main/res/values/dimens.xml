@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_margin">5dp</dimen>
+    <dimen name="textBestScore15">30sp</dimen>
+    <dimen name="textScore15">36sp</dimen>
+    <dimen name="textScore9">36sp</dimen>
+    <dimen name="textBestScore9">30sp</dimen>
+    <dimen name="textScore24">34sp</dimen>
+    <dimen name="textBestScore24">26sp</dimen>
+</resources>
